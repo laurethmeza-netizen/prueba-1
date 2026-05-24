@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor Documental</string>
+    <string name="camera_permission">Permiso de cámara requerido</string>
+    <string name="storage_permission">Permiso de almacenamiento requerido</string>
+    <string name="capture_button">Capturar Foto</string>
+    <string name="home">Inicio</string>
+    <string name="camera">Capturar</string>
+    <string name="routing">Enrutamiento</string>
+    <string name="settings">Configuración</string>
+    <string name="documents">Documentos</string>
+    <string name="no_documents">No hay documentos</string>
+    <string name="loading">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="success">Éxito</string>
+    <string name="document_type">Tipo de documento</string>
+    <string name="document_category">Categoría</string>
+    <string name="department">Departamento</string>
+    <string name="email">Correo electrónico</string>
+    <string name="priority">Prioridad</string>
+    <string name="auto_routing">Enrutamiento automático</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="search">Buscar</string>
+    <string name="filter">Filtrar</string>
+</resources>
